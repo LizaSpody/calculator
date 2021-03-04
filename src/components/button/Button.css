@@ -1,0 +1,20 @@
+.btn {
+    width: calc(25% - 20px);
+    margin: 0 10px 10px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.orangeBigBtn {
+    width: calc( 50% - 20px );
+    background-color: #FDA116;
+}
+
+.orangeBorderBtn {
+    border-color: #FDA116;
+}
+
+.greyBtn {
+    background-color: #CCCCCC;
+}

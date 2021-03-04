@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.calculator-wrap {
+  background-color: #CFE2F3;
+  max-width: 320px;
+  padding: 20px;
+}
+
+.keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -10px;
+}
